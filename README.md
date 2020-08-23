@@ -1,6 +1,6 @@
 # Beam Search vs Hill Climbing
 Here we evaluate the performance of Beam search and Hill Climbing. We see for almost every step size, the performance has increased using beam search, given that it does not get stuck in local maximums by providing k children at each iteration. Although in general, more steps are required for convergence when k
-increases. 
+increases. We are optimizing the following formulas:
 <p align="center">
 <img src="Formulas.png" width="270" height="70"/>
 </p>
