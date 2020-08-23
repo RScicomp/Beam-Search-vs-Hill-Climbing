@@ -11,7 +11,7 @@ We would like to maximize these functions within the range of 0 ≤ 𝑥, 𝑦 �
 ## Hill Climbing
 <img src="Hill Climbing.png"/>
 
-## Beam Search Forumla 1
+## Beam Search Formula 1
 <img src="F2 Beam.png"/>
 
 ## Beam Search Formula 2
