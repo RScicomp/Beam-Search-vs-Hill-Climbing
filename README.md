@@ -7,6 +7,10 @@ increases.
 We would like to maximize these functions within the range of 0 ≤ 𝑥, 𝑦 ≤ 10. For each part below and each setting, we will report the mean and standard deviation of the number of steps to convergence and of the final value.
 
 # Results
+
+# Hill Climbing
+<img src="Hill Climbing.png"/>
+
+# Beam Search
 <img src="F2 Beam.png"/>
 <img src="F1 Beam.png"/>
-<img src="Hill Climbing.png"  width="500" height="100"/>
